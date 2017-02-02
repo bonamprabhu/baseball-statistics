@@ -1,12 +1,10 @@
 # Analysis of Baseball data
 
-Baseball statistics plays an important role in assessing teams and/or players performance.In this project baseball data (from 1985 to 2015) 
-is used to find insights related to MLB players salaries and team payrolls.
+Statistics plays an important role in assessing teams and/or players performance in baseball. In this project baseball data is used to find insights related to MLB spending on players salaries and team payrolls.
 
 ## Data and code
 
-Data used in this project is freely downloadable from this [link](http://www.seanlahman.com/baseball-archive/statistics/). The version used in this project is 2015-comma-delimited version. The analysis is done in python 2.7 and code can be found in the ipython notebook named _baseball-statistics.ipynb_. Follow this [link](https://htmlpreview.github.io/?https://github.com/bonamprabhu/baseball-statistics/blob/master/baseball-statistics.html) 
-to view the HTML output.
+Data used in this project is freely downloadable from this [link](http://www.seanlahman.com/baseball-archive/statistics/). The version of data used in this project is 2015-comma-delimited version. The analysis is done in python 2.7 and code can be found in the ipython notebook named _baseball-statistics.ipynb_. Follow this [link](https://htmlpreview.github.io/?https://github.com/bonamprabhu/baseball-statistics/blob/master/baseball-statistics.html) to view the HTML output.
 
 ## How to Contribute
 
