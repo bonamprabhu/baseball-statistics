@@ -4,7 +4,7 @@ Statistics plays an important role in assessing teams and/or players performance
 
 ## Data and code
 
-Data used in this project is freely downloadable from this [link](http://www.seanlahman.com/baseball-archive/statistics/). The version of data used in this project is 2015-comma-delimited version. The analysis is done in python 2.7 and code can be found in the ipython notebook named _baseball-statistics.ipynb_. Follow this [link](https://htmlpreview.github.io/?https://github.com/bonamprabhu/baseball-statistics/blob/master/baseball-statistics.html) to view the HTML output.
+Data used in this project is freely downloadable from this [link](http://www.seanlahman.com/baseball-archive/statistics/). The version of data used in this project is 2015-comma-delimited version. The analysis is done in python 2.7 and code can be found in the ipython notebook named _baseball-statistics.ipynb_. Follow this [link](https://htmlpreview.github.io/?https://github.com/bonamprabhu/baseball-statistics/blob/master/baseball-statistics.html) to view the HTML output. The pip requirements and conda environment export can be found in env folder.
 
 ## How to Contribute
 
