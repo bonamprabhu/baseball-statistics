@@ -18,7 +18,7 @@ Next, clone this repository to your desktop to make changes.
 
 ```sh
 $ git clone {YOUR_REPOSITORY_CLONE_URL}
-$ cd stroop-effect
+$ cd baseball-statistics
 ```
 
 Once you've pushed changes to your local repository, you can issue a pull request by clicking on the pull request button.
